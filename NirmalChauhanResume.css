@@ -27,6 +27,15 @@ body{
     background-color: black;
     transform: rotate(143deg);
 }
+.hrMiddle{
+    color: black;
+    padding-right: 100px     ;
+    width: 800px;
+    margin-left: 900px;
+    transform: rotate(90deg);
+    border-top: 5px dashed red;
+}
+
 
 body{
     font-family: monospace;
@@ -60,6 +69,7 @@ table th {
     text-align: left;
     color: black;
 }
+
 
 
 ul{
