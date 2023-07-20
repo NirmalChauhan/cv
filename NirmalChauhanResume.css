@@ -1,0 +1,83 @@
+div{
+    padding-left: 20px;
+}
+.Heading {
+    transition: 1s;
+}
+.Heading:hover{
+    background-color:darkturquoise ;
+}
+
+body{
+    background-image: url(BackGroundImageForResume.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hrUp{
+    color: white;
+    height: 20px;
+    background-color: violet;
+    transform: rotate(8deg)
+}
+.hrDown{
+    color: black;
+    height: 20px;
+    width: 500px;
+    background-color: black;
+    transform: rotate(143deg);
+}
+
+body{
+    font-family: monospace;
+    font-size: large;
+    font-weight: inherit;
+}
+
+/* table, ol{
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+} */
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+  
+table tr:nth-child(even){background-color: #f2f2f2;}
+  
+table tr:hover {background-color: #ddd;}
+
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    color: black;
+}
+
+
+ul{
+    border-collapse: collapse;
+    width: 100%;
+    padding: 0px;
+  }
+  
+li {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+  
+ul li:nth-child(even){background-color: #f2f2f2;}
+  
+ul li:hover {background-color: #ddd;}
+
+ul li {
+    text-align: left;
+    color: black;
+}
