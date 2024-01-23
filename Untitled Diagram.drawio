@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T15:12:24.489Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sFU1j7Xg3TJq4tSje2Za" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T15:13:24.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7zHItSo90HK6quwyqLp0" version="22.1.21" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1435" dy="551" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -269,13 +269,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-22" value="Igcsm Schools" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="75" y="252" width="60" height="30" as="geometry" />
+          <mxGeometry x="78" y="252" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8zIsf_uySrbxlZjTvup-23" target="e8zIsf_uySrbxlZjTvup-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-23" value="Igcsm Vocational Studies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="75" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="78" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8zIsf_uySrbxlZjTvup-24" target="e8zIsf_uySrbxlZjTvup-101">
           <mxGeometry relative="1" as="geometry">
@@ -289,43 +289,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-24" value="IGCSM&amp;nbsp;&lt;br&gt;Technical Education" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="80" y="372" width="60" height="30" as="geometry" />
+          <mxGeometry x="78" y="372" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8zIsf_uySrbxlZjTvup-25" target="e8zIsf_uySrbxlZjTvup-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-25" value="Igcsm Higher Education" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="80" y="442" width="60" height="30" as="geometry" />
+          <mxGeometry x="78" y="442" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-26" value="Igcsm International Education" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="80" y="512" width="60" height="30" as="geometry" />
+          <mxGeometry x="78" y="512" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8zIsf_uySrbxlZjTvup-27" target="e8zIsf_uySrbxlZjTvup-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-27" value="IGCSM&lt;br&gt;&amp;nbsp;Public Sector Collaborations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="83" y="582" width="60" height="30" as="geometry" />
+          <mxGeometry x="78" y="582" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-28" value="IGCSM &lt;br&gt;Online Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="83" y="642" width="60" height="30" as="geometry" />
+          <mxGeometry x="78" y="642" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-29" value="NSDC Partnership" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="326" y="249" width="70" height="30" as="geometry" />
+          <mxGeometry x="317" y="248" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-30" value="Industry Partnership" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="326" y="309" width="70" height="30" as="geometry" />
+          <mxGeometry x="317" y="308" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-31" value="University Partnership" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="326" y="369" width="70" height="30" as="geometry" />
+          <mxGeometry x="317" y="368" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-32" value="Placement&amp;nbsp;&lt;br&gt;Alliance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="326" y="429" width="70" height="30" as="geometry" />
+          <mxGeometry x="317" y="428" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-33" value="Ministry Partnership" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="326" y="489" width="70" height="30" as="geometry" />
+          <mxGeometry x="317" y="488" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-34" value="Our Channel Partners" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="326" y="549" width="70" height="30" as="geometry" />
+          <mxGeometry x="317" y="548" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8zIsf_uySrbxlZjTvup-35" value="Recognition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="480" y="260" width="60" height="30" as="geometry" />
